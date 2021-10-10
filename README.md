@@ -3,7 +3,7 @@
 <p align="center">Application to perform financial transactions </p>
 
 <h4 align="center"> 
-	🚧  NodeJS Select 🚀 Em construção...  🚧
+	🚧  NodeJS Select 🚀 Under construction...  🚧
 </h4>
 
 ### Features
@@ -37,3 +37,11 @@ $ npm run dev:server
 
 # The server will start on port:3333 - access <http://localhost:3333>
 ```
+
+### 🛠 Technologies
+
+The following tools were used in the construction of the project:
+
+- [Javascript](https://www.javascript.com/)
+- [Node.js](https://nodejs.org/en/)
+- [Express.js](https://expressjs.com/pt-br/)
